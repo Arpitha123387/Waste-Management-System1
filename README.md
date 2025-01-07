@@ -17,6 +17,7 @@
 The waste management system provides an efficient portal for monitoring, collection, and disposal of wastes from each house and locality. Moreover, the data helps the authorities to take necessary actions beforehand. 
 
 Development Platform: 
+
 * For Database 		- mySQL - AWS-RDS
 * For User Interface	- Website (HTML/CSS, Javascript)
 * Frontend			- React.js, Bootstrap

@@ -110,4 +110,5 @@
     "trans": "lingui extract --clean && node ./scripts/translate.js",
     "doc": "docsify serve docs"
   }
+  
 }

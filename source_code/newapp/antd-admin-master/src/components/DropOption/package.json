@@ -2,5 +2,8 @@
   "name": "DropOption",
   "version": "0.0.0",
   "private": true,
-  "main": "./DropOption.js"
+  "main": "./DropOption.js",
+  "dependencies": {
+    "DropOption": "file:"
+  }
 }
